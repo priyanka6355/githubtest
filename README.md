@@ -1,0 +1,5 @@
+# ABSTRACT
+
+
+An eLearning project aims to create an engaging and informative online course that helps learners achieve the desired learning outcomes, but this is from the macro perspective. From the micro perspective, an eLearning project involves the effective coordination of your development team to build the course to standard and launch it. An electronic learning platform is an integrated set of interactive online services that provide trainers, learners, and others involved in education with information, tools, and resources to support and enhance education delivery and management. One type of eLearning platform is a learning management system (LMS).
+There are many eLearning companies out there that offer online learning platforms. Some of these virtual learning environment platforms allow you to host and sell online courses, allowing you to run your own business. Other platforms simply offer an interface in which users can interact with your content but might not be the best fit for your audience
